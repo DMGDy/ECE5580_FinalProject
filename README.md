@@ -1,4 +1,4 @@
-# Vector Processor Simulator
+# Superscalar Fixed-Length Vector Processor Simulator
 ## Project Objectives:
 The primary goal of this project is to provide students with a comprehensive understanding of vector processors and their efficiency in handling data-parallel workloads. Through the development of a vector processing simulation environment, students will explore the architectural features that allow vector processors to achieve high levels of data throughput for certain types of applications. Additionally, the project aims to investigate the effects of various vector processor parameters on the performance of data-parallel tasks. This will also serve to enhance the students' skills in programming, collaborative work, technical writing, and critical analysis of performance metrics and architectural trade-offs.
 
